@@ -1,5 +1,5 @@
-# Store Management System for Grocery store
-CLI Based Store management system
+# Store Management application for Grocery store
+CLI Based Store management application
 ## Customer Application
 Castomer can calculate and get recipt using Customer application
 
