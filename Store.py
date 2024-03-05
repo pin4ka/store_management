@@ -1,12 +1,6 @@
 import os
 from time import sleep
 
-
-# for x in os.listdir("..\"):
-#     if x.endswith(".txt"):
-#         # Prints only text file present in My Folder
-#         print(x)
-
 while True:
     print(
         " enter '1' for show all product \n '2' for add a product \n '3' for edit existing product"
